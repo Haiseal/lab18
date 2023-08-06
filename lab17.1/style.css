@@ -1,0 +1,17 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./web-carousel-example-1.jpg);
+}
+
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./1.Square\ Website\ Template\ Carousel.jpg);
+}
+
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./7.Bohemia\ Hero\ Image\ Carousel.png);
+}
